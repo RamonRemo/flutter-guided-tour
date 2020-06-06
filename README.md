@@ -1,4 +1,4 @@
-# tour_poc2
+# Guided-Tour/snackbar Test
 
 A App used for test tutorial_coach_mark and the snackbar function of Flutter.
 
